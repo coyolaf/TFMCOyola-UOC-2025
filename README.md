@@ -3,7 +3,7 @@
 Este repositorio contiene el código fuente, la documentación técnica y la estructura de datos del Trabajo de Fin de Máster (TFM). El proyecto implementa una arquitectura de ciencia de datos que conecta microdatos institucionales con el Censo de Población y Vivienda 2022 INEC del Ecuador mediante técnicas de aprendizaje mixto.
 
 ---
-## esumen del Proyecto
+## Resumen del Proyecto
 
 El objetivo central es superar la planificación educativa convencional mediante una arquitectura de ciencia de datos que identifica perfiles de demanda potencial. El proceso transita desde una muestra institucional etiquetada hacia una clasificación masiva a nivel nacional, permitiendo identificar no solo dónde están los perfiles, sino qué tan accesible es atenderlos mediante análisis geoespacial.
 
