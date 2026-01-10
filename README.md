@@ -8,7 +8,7 @@ Este repositorio contiene el código fuente, la documentación técnica y la est
 El objetivo central es superar la planificación educativa convencional mediante una arquitectura de ciencia de datos que identifica perfiles de demanda potencial. El proceso transita desde una muestra institucional etiquetada hacia una clasificación masiva a nivel nacional, permitiendo identificar no solo dónde están los perfiles, sino qué tan accesible es atenderlos mediante análisis geoespacial.
 
 ### Pipeline Técnico
-1. **Segmentación:** Uso de Distancia de Gower y algoritmo PAM para identificar perfiles sociodemográficos complejos.
+1. **Segmentación:** Uso de Distancia de Gower y algoritmo jerarquico + PAM para identificar perfiles sociodemográficos complejos.
 2. **Escalamiento:** Entrenamiento de un modelo supervisado (LightGBM) para clasificar el universo del Censo 2022.
 3. **Geoprocesamiento:** Generación de isócronas y mapas de densidad para priorización territorial.
 
