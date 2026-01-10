@@ -1,6 +1,6 @@
 # Arquitectura Analítica para la Planificación Territorial Educativa
 
-Este repositorio contiene el código fuente, la documentación técnica y la estructura de datos del Trabajo de Fin de Máster (TFM). El proyecto implementa una arquitectura de ciencia de datos que conecta microdatos institucionales con el Censo de Población y Vivienda 2022 (Ecuador) mediante técnicas de aprendizaje mixto.
+Este repositorio contiene el código fuente, la documentación técnica y la estructura de datos del Trabajo de Fin de Máster (TFM). El proyecto implementa una arquitectura de ciencia de datos que conecta microdatos institucionales con el Censo de Población y Vivienda 2022 INEC del Ecuador mediante técnicas de aprendizaje mixto.
 
 ---
 ## 🚀 Resumen del Proyecto
