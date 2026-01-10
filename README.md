@@ -21,7 +21,7 @@ El objetivo central es superar la planificación educativa convencional mediante
 | **`slides.pdf`** | **Presentación Ejecutiva.** Resumen visual del proyecto cubriendo contexto, metodología de escalamiento, resultados y conclusiones estratégicas. |
 | **`TFM_COyola_31-12-2025.pdf`** | **Memoria Técnica (Tesis).** Documento académico integral que contiene el marco teórico, la justificación metodológica y el análisis de impacto social. |
 | **`DICCIONARIO_BDD_CANTON.xlsx`** | **Metadata.** Diccionario de variables detallado para la interpretación de los indicadores generados a nivel de unidad administrativa local (LAU2/Cantón). |
-| **`Images/`** | **Activos Visuales.** Directorio que contiene los esquemas de la arquitectura analítica, diagramas de flujo y exportaciones cartográficas. |
+| **`Images/`** | **Recursos Visuales.** Directorio que contiene los esquemas de la arquitectura analítica, diagramas de flujo y exportaciones cartográficas. |
 
 ## 📊 Acceso a Datasets (Fuentes Externas)
 Debido al volumen de los registros procesados (Universo Censo 2022), los datasets se encuentran alojados en **Zenodo** bajo los siguientes accesos directos:
