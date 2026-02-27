@@ -24,7 +24,6 @@ El objetivo central es superar la planificación educativa convencional mediante
 | :--- | :--- |
 | **`TFM.ipynb`** | **Core Analítico.** Jupyter Notebook con el flujo completo: preprocesamiento, clustering (Gower/PAM), modelado predictivo con LightGBM y validación de resultados. |
 | **`slides.pdf`** | **Presentación Ejecutiva.** Resumen visual del proyecto cubriendo contexto, metodología de escalamiento, resultados y conclusiones estratégicas. |
-| **`TFM_COyola_31-12-2025.pdf`** | **Memoria Técnica (Tesis).** Documento académico integral que contiene el marco teórico, la justificación metodológica y el análisis de impacto social. |
 | **`DICCIONARIO_BDD_CANTON.xlsx`** | **Metadata.** Diccionario de variables detallado para la interpretación de los indicadores generados a nivel de unidad administrativa local (LAU2/Cantón). |
 | **`Images/`** | **Recursos Visuales.** Directorio que contiene los esquemas de la arquitectura analítica, diagramas de flujo y exportaciones cartográficas. |
 
